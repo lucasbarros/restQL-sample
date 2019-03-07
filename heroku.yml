@@ -1,0 +1,7 @@
+build:
+  docker:
+    nginx: ./nginx/Dockerfile
+    api: ./api/Dockerfile
+    manager: ./manager/Dockerfile
+    db: ./db/Dockerfile
+  
