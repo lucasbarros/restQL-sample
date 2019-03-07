@@ -1,7 +1,8 @@
+setup:
+  addons:
+  - plan: mongolab
 build:
   docker:
-    nginx: ./nginx/Dockerfile
-    api: ./api/Dockerfile
-    manager: ./manager/Dockerfile
-    db: ./db/Dockerfile
+    api: api/Dockerfile
+    manager: manager/Dockerfile
   

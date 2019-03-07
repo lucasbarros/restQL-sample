@@ -1,8 +1,7 @@
 {
     "name": "restQL complete example",
     "description": "restQL example with api, manager and mongoDB configured",
-    "repository": "https://github.com/locasbarros/restql-sample",
-    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "repository": "https://github.com/lucasbarros/restql-sample",
     "keywords": ["restql", "clojure", "node", "nginx"],
     "stack": "container"
 }
